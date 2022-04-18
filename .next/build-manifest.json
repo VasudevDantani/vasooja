@@ -1,0 +1,99 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/css/styles.5b32f48f.chunk.css",
+      "static/chunks/styles.7c0fd2ed7f5b39ac8cee.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/css/styles.5b32f48f.chunk.css",
+      "static/chunks/styles.7c0fd2ed7f5b39ac8cee.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-ebd4705da3402b2d78e1.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/css/styles.5b32f48f.chunk.css",
+      "static/chunks/styles.7c0fd2ed7f5b39ac8cee.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/about": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/banner": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/blog": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/brand": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/countdown": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/counter": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/destination": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/footer": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/gallery": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/header": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/subscribe": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/sections/wedding/testimonial": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ],
+    "/layouts/wedding": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/chunks/commons.724b47f612a7bdd31dcb.js",
+      "static/runtime/main-b92a86ad5327e953f166.js"
+    ]
+  }
+}
